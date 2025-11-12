@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, Snowflake, MongoDB
 
 📫 Reach me: cjcwork1@gmail.com 
-
----
