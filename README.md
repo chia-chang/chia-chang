@@ -12,20 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Chia Chang 👋
+## Hi there, I'm Chia Chang (like chia seed) 👋
 
-## Data Scientist | Turning Data into Insights
-
-🔭 I'm currently working on: Building my data analytics portfolio
-
-🌱 I'm learning: Advanced ML techniques and cloud data engineering
-
-💼 4+ years experience in: Data Science, Analytics, and Visualization
+**Data Scientist** | Turning Data into Insights
 
 🛠️ Tech Stack:
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter, Tableau, Looker Studio, Excel
+- **Tools:** Jupyter, Looker Studio, Tableau, Excel
 - **Databases:** MySQL, Snowflake, MongoDB
 
 📫 Reach me: cjcwork1@gmail.com 
