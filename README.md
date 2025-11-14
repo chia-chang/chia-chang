@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Chia Chang (like chia seed) 👋
+## Hi there, I'm Chia 👋
 
-**Data Scientist** | Turning Data into Insights
+**Data Scientist**
 
 🛠️ Tech Stack:
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter, Looker Studio, Tableau, Excel
-- **Databases:** MySQL, Snowflake, MongoDB
+- **Languages:** Python, SQL, Java, JavaScript
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter, Looker Studio, Tableau, Datawrapper, Excel
+- **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
+- **Other:** ETL, A/B Testing, Data Modeling
 
-📫 Reach me: cjcwork1@gmail.com 
+📫 Contact: cjcwork1@gmail.com 
