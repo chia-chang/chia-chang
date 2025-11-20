@@ -18,11 +18,21 @@ Here are some ideas to get you started:
 I’m a passionate **Data Scientist** who loves turning data into stories and insights. I specialize in making data tell its secrets with a blend of code, visualization, and modeling magic.
 
 
-🛠️ Tech Stack:
+### Skills
 - **Languages:** Python, SQL, Java, JavaScript
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter, Looker Studio, Tableau, Datawrapper, Excel
 - **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
 - **Other:** ETL, A/B Testing, Data Modeling
+
+### Featured Projects
+
+- **SQL Business Analytics Scenarios:**  
+  Tackle real-world business questions with a public e-commerce dataset. Highlights include seller optimization, ROI measurement, and actionable, data-driven recommendations.
+
+- **COVID Analytics Operations:**  
+  Inspired by my work at IBM. This project demonstrates automated pipelines for pandemic data. Achieved 80% reporting efficiency improvement, reducing manual work from hours to minutes.
+
+
 
 📫 Let's connect!! cjcwork1@gmail.com 
