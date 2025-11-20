@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm Chia 👋
+## Hi there, I'm Chia 🌿👋
+(Yes, just like chia seeds!)
 
-**Data Scientist**
+I’m a passionate **Data Scientist** who loves turning data into stories and insights. I specialize in making data tell its secrets with a blend of code, visualization, and modeling magic.
+
 
 🛠️ Tech Stack:
 - **Languages:** Python, SQL, Java, JavaScript
@@ -23,4 +25,4 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
 - **Other:** ETL, A/B Testing, Data Modeling
 
-📫 Contact: cjcwork1@gmail.com 
+📫 Let's connect!! cjcwork1@gmail.com 
