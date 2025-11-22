@@ -28,11 +28,11 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 ### Featured Projects
 
 - **SQL Business Analytics Scenarios:**  
-  Tackle real-world business questions with a public e-commerce dataset. Highlights include seller optimization, ROI measurement, and actionable, data-driven recommendations.  
+  Ad-hoc SQL analyses for realistic business requests using 100K+ order e-commerce dataset. Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer segmentation.  
   [View Project](https://github.com/chia-chang/sql-business-analytics)
 
 - **COVID Analytics Operations:**  
-  Inspired by my work at IBM. This project demonstrates automated pipelines for pandemic data. Achieved 80% reporting efficiency improvement, reducing manual work from hours to minutes.  
+  Inspired by my work at IBM. Automated data pipeline for pandemic tracking, reducing manual reporting from hours to minutes. (80% reporting efficiency improvement)
   [View Project](https://github.com/chia-chang/python-analytics-automation)
 
 
