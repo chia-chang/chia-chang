@@ -32,9 +32,10 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
   [View Project](https://github.com/chia-chang/sql-business-analytics)
 
 - **COVID Analytics Operations:**  
-  Inspired by my work at IBM. Automated data pipeline for pandemic tracking, reducing manual reporting from hours to minutes. (80% reporting efficiency improvement)
+  Inspired by analytics work at IBM, this project automates pandemic tracking by building robust data pipelines for cleaning, validation, and KPI calculations (7-day moving averages, positivity rates, week-over-week trends). Automation replaced manual reporting, improving efficiency by 80% and reducing process time from hours to minutes.  
   [View Project](https://github.com/chia-chang/python-analytics-automation)
 
 
 
-📫 Let's connect!! cjcwork1@gmail.com 
+📫 Let's connect!!  
+  cjcwork1@gmail.com 
