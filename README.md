@@ -31,7 +31,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
   Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset. Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer segmentation.  
   
 
-- **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)** | Python 
+- **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)** | Python  
   Built a **Python**-based pipeline to automate COVID-19 reporting, including data ingestion, cleaning, validation checks, and KPI calculations (7‑day moving averages, test positivity, week‑over‑week trends), replacing manual spreadsheet workflows and cutting reporting time by **80%** (from 3–4 hours to under 15 minutes per update).   
   
 
