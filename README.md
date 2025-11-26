@@ -32,7 +32,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
   
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)** | Python  
-  Automated pipeline that handles data ingestion, cleaning, validation checks, and KPI calculations (7‑day moving averages, test positivity, week‑over‑week trends), replacing manual spreadsheet workflows and cutting reporting time by **80%** (from 3–4 hours to under 15 minutes per update).   
+  Recreated my work from IBM where I automated COVID-19 reporting—built a pipeline that handles data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends). Cut reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
 
 
