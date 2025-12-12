@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Chia 🌿👋
 (Yes, just like chia seeds!)
 
-I’m a passionate **Data Scientist** who loves turning data into stories and insights. I specialize in making data tell its secrets with a blend of code, visualization, and modeling magic.
+I’m a passionate **Data Scientist** who loves turning data into stories and insights. I specialize in making data tell its secrets with a blend of code, visualization, and modeling. I work at the intersection of data and product, using analytics to shape better decisions, features, and data products.
 
 
 ### Skills
@@ -25,7 +25,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 - **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
 - **Other:** ETL, A/B Testing, Data Modeling
 
-### Featured Projects
+### Data and analytics Projects
 
 - **[Business Analytics Scenarios](https://github.com/chia-chang/business-analytics-scenarios)** | SQL  
   Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset. Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer segmentation.  
@@ -34,7 +34,16 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)** | Python  
   Recreated my work from IBM where I automated COVID-19 reporting. Built a pipeline that handles data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends). Cut reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
+### Product portfolio
+If you are interested in how I approach these projects from a product and stakeholder perspective, I keep a separate PM‑focused portfolio:
 
+- **PM Portfolio**(in the works)  
+  Case studies written from a product point of view for:
+  - COVID Analytics Automation (data product for internal stakeholders, research partners, and public dashboards) 
+  - Business Analytics Scenarios (decision support for ops and marketing)  
+  - Cybersecurity podcast (content as a product, discovery and iteration)   
+
+Each case study covers problem definition, users, trade‑offs, and impact, written by a data scientist thinking like a PM.
 
 
 📫 Let's connect!!  
