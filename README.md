@@ -24,6 +24,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 - **Tools:** Jupyter, Looker Studio, Tableau, Datawrapper, Excel
 - **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
 - **Other:** ETL, A/B Testing, Data Modeling
+- **Product & Collaboration**: Notion(content/ project pipelines), Kanban / sprint planning
 
 ### Data and Analytics Projects
 
