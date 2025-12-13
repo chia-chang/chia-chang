@@ -37,7 +37,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 ### Product portfolio
 See how I approach these projects from a product and stakeholder perspective! [(view here 👀)](https://github.com/chia-chang/pm-portfolio)   
 Case studies written from a product point of view:
-- InfosecDecompress podcast (content as a product, 0 to 1 product)
+- [InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md) (content as a product, 0 to 1 product)
 - [COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) (data product for internal stakeholders, research partners, and public dashboards)
 - Business Analytics Scenarios (decision support for ops and marketing)  
     
