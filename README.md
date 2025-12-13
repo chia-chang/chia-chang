@@ -35,13 +35,14 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
   Recreated my work from IBM where I automated COVID-19 reporting. Built a pipeline that handles data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends). Cut reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
 ### Product portfolio
-If you are interested in how I approach these projects from a product and stakeholder perspective, I keep a separate PM‑focused portfolio:
+See how I approach these projects from a product and stakeholder perspective:
 
-- **PM Portfolio**(in the works)  
-  Case studies written from a product point of view for:
-  - COVID Analytics Automation (data product for internal stakeholders, research partners, and public dashboards) 
+- **[PM Portfolio](https://github.com/chia-chang/pm-portfolio)**  
+  Case studies written from a product point of view:
+  - [COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) (data product for internal stakeholders, research partners, and public dashboards)
+  - InfosecDecompress podcast (content as a product, 0 to 1 product)  
   - Business Analytics Scenarios (decision support for ops and marketing)  
-  - Cybersecurity podcast (content as a product, discovery and iteration)   
+    
 
 Each case study covers problem definition, users, trade‑offs, and impact, written by a data scientist thinking like a PM.
 
