@@ -38,10 +38,10 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 ### Product Case Studies
 See how I approach the same projects from a product and stakeholder perspective.  
 Case studies written from a product point of view:
-- [InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md) – content as a product, 0 to 1 education product in Mandarin
-- [COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md) – data product for internal stakeholders, research partners, and public dashboards
-- Scratch Jr course (in progress) – Mandarin programming course for kids, from classroom format to online curriculum
-- Business Analytics Scenarios – decision support prototypes for operations, CX, and marketing 
+- **[InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)** – content as a product, 0 to 1 education product in Mandarin
+- **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** – data product for internal stakeholders, research partners, and public dashboards
+- **Scratch Jr course (in progress)** – Mandarin programming course for kids, from classroom format to online curriculum
+- **Business Analytics Scenarios** – decision support prototypes for operations, CX, and marketing 
 
 👉 [Product case studies](https://github.com/chia-chang/product-case-studies)
 
