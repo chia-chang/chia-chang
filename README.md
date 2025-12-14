@@ -29,14 +29,17 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 ### Data and Analytics Projects
 
 - **[Business Analytics Scenarios](https://github.com/chia-chang/business-analytics-scenarios)** | SQL  
-  Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset. Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value.  
+  - Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
+  - Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value. Showcases realistic, business‑focused SQL work.  
   
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)** | Python  
-  Recreated my work from IBM where I automated COVID-19 reporting. Built a pipeline that handles data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends). Cut reporting time by 80% (3-4 hours → 15 minutes) in production.  
+  - Recreated my work from IBM.
+  - Automated COVID‑19 reporting pipeline with data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends).
+  - Reduced reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
 ### Product Case Studies
-Case studies written from a product point of view:
+Case studies written from a product point of view: how I use data, user understanding, and iteration to build and improve products.
 - **[InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)** – content as a product, 0 to 1 education product in Mandarin
 - **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** – data product for internal stakeholders, research partners, and public dashboards
 - **[Scratch Jr course](https://github.com/chia-chang/product-case-studies/blob/main/scratchjr-course-product.md)** (in progress) – Mandarin programming course for kids, from classroom format to online curriculum
