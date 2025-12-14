@@ -45,5 +45,8 @@ Case studies written from a product point of view:
 
 
 
-📫 Let's connect!!  
-  cjcwork1@gmail.com 
+📫 **Let's connect**: cjcwork1@gmail.com 
+
+
+
+all projects are made with ✨ + 🌿 + 💛 by Chia Chang
