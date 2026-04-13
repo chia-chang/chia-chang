@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi there, I'm Chia 🌿👋
 (Yes, just like chia seeds!)
 
-I’m a passionate **Data Scientist** who loves turning data into stories and insights. I specialize in making data tell its secrets with a blend of code, visualization, and modeling. I work at the intersection of data and product, using analytics to shape better decisions, features, and data products.
+I’m a **Data Scientist who thinks like a PM**. I love turning data into decisions, not just dashboards. I build end-to-end analytics systems, design metrics that actually matter, and I’m always asking who uses this, what problem does it solve, and how do we make it better?
 
 
 ### Skills
@@ -35,6 +35,7 @@ I’m a passionate **Data Scientist** who loves turning data into stories and in
 
 - **[COVID Analytics](https://github.com/chia-chang/covid-analytics)**
   - Recreated my work from IBM.
+  - Defined key public health metrics (e.g., positivity rate, 7-day averages, hospitalization trends) to better reflect real-world conditions and support decision-making.
   - Automated COVID‑19 reporting pipeline with data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends).
   - Reduced reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
