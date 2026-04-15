@@ -28,12 +28,12 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 
 ### Data and Analytics Projects
 
-- **[Business Analytics Scenarios](https://github.com/chia-chang/business-analytics-scenarios)** 
+- **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)** 
   - Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
   - Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value. Showcases realistic, business‑focused SQL work.  
   
 
-- **[COVID Analytics](https://github.com/chia-chang/covid-analytics)**
+- **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
   - Recreated my work from IBM.
   - Defined key public health metrics (e.g., positivity rate, 7-day averages, hospitalization trends) to better reflect real-world conditions and support decision-making.
   - Automated COVID‑19 reporting pipeline with data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends).
