@@ -26,7 +26,7 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 - **Other:** ETL, A/B Testing, Data Modeling
 - **Product & Collaboration**: Notion(content/ project pipelines), Kanban / sprint planning
 
-### Data and Analytics Projects
+### Data and Analytics
 
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)** 
   - Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
