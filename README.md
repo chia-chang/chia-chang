@@ -29,8 +29,8 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 ### Data and Analytics
 
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)** 
-  - Ad-hoc **SQL** analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
-  - Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value. Showcases realistic, business‑focused SQL work.  
+  - Ad-hoc analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
+  - Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value. Showcases realistic, business‑focused work.  
   
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
