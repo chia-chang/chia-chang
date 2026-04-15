@@ -40,9 +40,9 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
   - Reduced reporting time by 80% (3-4 hours → 15 minutes) in production.  
   
 ### Product Case Studies
-Case studies written from a product point of view: how I use data, user understanding, and iteration to build and improve products.
+Case studies written from a product perspective: how I use data, user understanding, and iteration to build and improve products.
 - **[InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)** – content as a product, 0 to 1 education product in Mandarin
-- **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** – data product for internal stakeholders, research partners, and public dashboards
+- **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** (product perspective of the previous project) – data product for internal stakeholders, research partners, and public dashboards
 - **[Scratch Jr course](https://github.com/chia-chang/product-case-studies/blob/main/scratchjr-course-product.md)** (in progress) – Mandarin programming course for kids, from classroom format to online curriculum
 
 👉 [Product case studies](https://github.com/chia-chang/product-case-studies)
