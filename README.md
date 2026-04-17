@@ -29,15 +29,14 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 ### Data and Analytics
 
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)** 
-  - Ad-hoc analyses for 5 realistic business scenarios using a 100K+ order e-commerce dataset.
-  - Includes seller performance audits, late delivery investigation, campaign ROI measurement, and customer value. Showcases realistic, business‑focused work.  
+  Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results. 
   
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
-  - Recreated my work from IBM.
-  - Defined key public health metrics (e.g., positivity rate, 7-day averages, hospitalization trends) to better reflect real-world conditions and support decision-making.
-  - Automated COVID‑19 reporting pipeline with data cleaning, validation, and KPI calculations (7-day moving averages, test positivity, trends).
-  - Reduced reporting time by 80% (3-4 hours → 15 minutes) in production.  
+  Automated COVID-19 reporting system recreated from IBM work that covers metric design decisions, data integration across 5 sources, and pipeline automation that cut report generation from 3–4 hours to 15 minutes.
+
+ - **[Pricing Data Integration](https://github.com/chia-chang/pricing-data-integration)**
+   Multi-source pricing consolidation for a grocery delivery platform, resolving conflicts across Campaign, NonCampaign, Special Discount, and List Price sources using a priority logic system.
   
 ### Product Case Studies
 Case studies written from a product perspective: how I use data, user understanding, and iteration to build and improve products.
