@@ -22,7 +22,7 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 - **Languages:** Python, SQL, Java, JavaScript
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter, Looker Studio, Tableau, Datawrapper, Excel
-- **Databases:** MySQL, Snowflake, MongoDB, Neo4j, MS Access
+- **Databases:** MySQL, BigQuery, Snowflake, MongoDB, Neo4j, MS Access
 - **Other:** ETL, A/B Testing, Data Modeling
 - **Product & Collaboration**: Notion(content/ project pipelines), Kanban / sprint planning
 
