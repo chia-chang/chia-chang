@@ -19,7 +19,7 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 
 
 ### Skills
-- **Languages:** Python, SQL, Java, JavaScript
+- **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter, Looker Studio, Tableau, Datawrapper, Excel
 - **Databases:** MySQL, BigQuery, Snowflake, MongoDB, Neo4j, MS Access
