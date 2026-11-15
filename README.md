@@ -37,11 +37,11 @@ Case studies written from a product perspective: how I use data, user understand
 
 ### Data and Analytics
 
-- **[No Traffic Alert Optimization](https://github.com/chia-chang/no-traffic-alert)**
-  A weekly Tableau alert with under 200 views in two years, redesigned after interviews with Key Account Managers revealed why nobody used it. Introduced a Potential Volume metric to rank B2B client accounts by business volume at risk and a statistically set noise filter so only meaningful drops surface. Recreated from work at a B2B live-streaming platform using synthetic data.
-
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
   Automated COVID-19 reporting system recreated from IBM work that covers metric design decisions, data integration across 5 sources, and pipeline automation that cut report generation from 3–4 hours to 15 minutes.
+
+- **[No Traffic Alert Optimization](https://github.com/chia-chang/no-traffic-alert)**
+  A weekly Tableau alert with under 200 views in two years, redesigned after interviews with Key Account Managers revealed why nobody used it. Introduced a Potential Volume metric to rank B2B client accounts by business volume at risk and a statistically set noise filter so only meaningful drops surface. Recreated from work at a B2B live-streaming platform using synthetic data.
 
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)**
   Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results.
