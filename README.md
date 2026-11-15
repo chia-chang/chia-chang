@@ -26,28 +26,30 @@ I’m a **Data Scientist who thinks like a PM**. I love turning data into decisi
 - **Other:** ETL, A/B Testing, Data Modeling
 - **Product & Collaboration**: Notion(content/ project pipelines), Kanban / sprint planning
 
+### Product Case Studies
+Case studies written from a product perspective: how I use data, user understanding, and iteration to build and improve products.
+
+- **[InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)** – content as a product, 0 to 1 education product in Mandarin
+- **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** (product perspective of the project below) – data product for internal stakeholders, research partners, and public dashboards
+- **[Scratch Jr course](https://github.com/chia-chang/product-case-studies/blob/main/scratchjr-course-product.md)** (in progress) – Mandarin programming course for kids, from classroom format to online curriculum
+
+👉 [All product case studies](https://github.com/chia-chang/product-case-studies)
+
 ### Data and Analytics
 
 - **[No Traffic Alert Optimization](https://github.com/chia-chang/no-traffic-alert)**
-  A weekly Tableau alert with under 200 views in two years, redesigned after KAM interviews revealed why nobody used it. Introduced a Potential Wager metric to rank casinos by revenue at risk and a statistically set noise filter. Recreated from Evolution work with synthetic data.
-  
+  A weekly Tableau alert with under 200 views in two years, redesigned after interviews with Key Account Managers revealed why nobody used it. Introduced a Potential Volume metric to rank B2B client accounts by business volume at risk and a statistically set noise filter so only meaningful drops surface. Recreated from work at a B2B live-streaming platform using synthetic data.
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
   Automated COVID-19 reporting system recreated from IBM work that covers metric design decisions, data integration across 5 sources, and pipeline automation that cut report generation from 3–4 hours to 15 minutes.
 
- - **[Pricing Data Integration](https://github.com/chia-chang/pricing-data-integration)**
-   Multi-source pricing consolidation for a grocery delivery platform, resolving conflicts across Campaign, NonCampaign, Special Discount, and List Price sources using a priority logic system.
+- **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)**
+  Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results.
 
-- **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)** 
-  Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results. 
-  
-### Product Case Studies
-Case studies written from a product perspective: how I use data, user understanding, and iteration to build and improve products.
-- **[InfosecDecompress podcast](https://github.com/chia-chang/pm-portfolio/blob/main/InfosecDecompress-Podcast-product.md)** – content as a product, 0 to 1 education product in Mandarin
-- **[COVID Analytics Automation](https://github.com/chia-chang/pm-portfolio/blob/main/covid-automation-product.md)** (product perspective of the previous project) – data product for internal stakeholders, research partners, and public dashboards
-- **[Scratch Jr course](https://github.com/chia-chang/product-case-studies/blob/main/scratchjr-course-product.md)** (in progress) – Mandarin programming course for kids, from classroom format to online curriculum
+### Other Tools I Built
 
-👉 [Product case studies](https://github.com/chia-chang/product-case-studies)
+- **[Pricing Data Integration](https://github.com/chia-chang/pricing-data-integration)**
+  Multi-source pricing consolidation for a grocery delivery platform, resolving conflicts across Campaign, NonCampaign, Special Discount, and List Price sources using a priority logic system.
 
 
 
