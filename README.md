@@ -46,7 +46,7 @@ Case studies written from a product perspective: how I use data, user understand
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)**
   Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results.
 
-### Other Tools
+### Other Project & Tools
 
 - **[Pricing Data Integration](https://github.com/chia-chang/pricing-data-integration)**
   Multi-source pricing consolidation for a grocery delivery platform, resolving conflicts across Campaign, NonCampaign, Special Discount, and List Price sources using a priority logic system.
