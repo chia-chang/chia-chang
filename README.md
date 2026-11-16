@@ -35,7 +35,7 @@ Case studies written from a product perspective: how I use data, user understand
 
 👉 [All product case studies](https://github.com/chia-chang/product-case-studies)
 
-### Data and Analytics
+### Data & Analytics
 
 - **[COVID Analytics Automation](https://github.com/chia-chang/covid-analytics-automation)**
   Automated COVID-19 reporting system recreated from IBM work that covers metric design decisions, data integration across 5 sources, and pipeline automation that cut report generation from 3–4 hours to 15 minutes.
@@ -46,7 +46,7 @@ Case studies written from a product perspective: how I use data, user understand
 - **[Ecommerce Business Analytics](https://github.com/chia-chang/ecommerce-business-analytics)**
   Five ad-hoc business analyses on real e-commerce data (seller performance audits, late delivery investigation, campaign ROI, and customer segmentation) each with stakeholder framing and actionable recommendations, not just query results.
 
-### Other Tools I Built
+### Other Tools
 
 - **[Pricing Data Integration](https://github.com/chia-chang/pricing-data-integration)**
   Multi-source pricing consolidation for a grocery delivery platform, resolving conflicts across Campaign, NonCampaign, Special Discount, and List Price sources using a priority logic system.
